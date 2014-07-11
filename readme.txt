@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-CMS2CMS Migration Plugin can more than help you to go through the migration path from Plone to WordPress with no programming knowledge, much time and effort.
+CMS2CMS Migration Plugin can more than help you to go through the migration path from Plone to WordPress with no programming knowledge.
 
 == Description ==
 
