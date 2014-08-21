@@ -18,6 +18,9 @@ If you wish to switch from Plone CMS and consider WordPress a perfect solution f
 
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
+*There is Free Demo available (migration of limited number of pages).*
+*Full Migration starts from $9.*
+
 = The Following Entities are Currently Supported by CMS2CMS: =
 * *pages*
 * *content images*
