@@ -13,13 +13,13 @@ CMS2CMS Migration Plugin can more than help you to go through the migration path
 
 If you wish to switch from Plone CMS and consider WordPress a perfect solution for your current web project - CMS2CMS Migration Plugin can more than help you to go through the migration path with no programming knowledge, much time and effort.
 
-= Video =
-[youtube https://www.youtube.com/watch?v=EHyvHYqSJes]
-
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
-*There is Free Demo available (migration of limited number of pages).*
-*Full Migration starts from $9.*
+* *There is Free Demo available (migration of limited number of pages).*
+* *Full Migration starts from $9.*
+
+= Video =
+[youtube https://www.youtube.com/watch?v=EHyvHYqSJes]
 
 = The Following Entities are Currently Supported by CMS2CMS: =
 * *pages*
