@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: Plone to WordPress Migration  ===
 Contributors: cms2cms
-Tags: Plone to WordPress, Plone to WordPress migration, convert Plone to WordPress, migrate Plone to WordPress, images, plugin
+Tags: Plone to WordPress, Plone to WordPress migration, convert Plone to WordPress, migrate Plone to WordPress, plugin
 Requires at least: 3.0.0
 Tested up to: 3.9.1
 Stable tag: 3.6.2
