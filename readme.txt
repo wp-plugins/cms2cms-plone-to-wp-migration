@@ -34,6 +34,7 @@ If you wish to switch from Plone CMS and consider WordPress a perfect solution f
 * High Speed - usually a full-scale migration with CMS2CMS is a matter of 15 min to a couple of hours (depending on a website size).
 * Free Demo Available - CMS2CMS provides its users with an opportunity to see a website migration in action by importing a limited number of pages to a target platform. 
 
+More info here: http://www.cms2cms.com/supported-cms/plone-to-wordpress-migration/
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Plone and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
