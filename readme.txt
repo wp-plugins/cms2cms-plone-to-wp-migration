@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: Plone to WordPress, Plone to WordPress migration, convert Plone to WordPress, migrate Plone to WordPress, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
