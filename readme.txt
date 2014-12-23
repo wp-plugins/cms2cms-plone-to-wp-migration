@@ -36,10 +36,10 @@ If you wish to switch from Plone CMS and consider WordPress a perfect solution f
 
 More info here: http://www.cms2cms.com/supported-cms/plone-to-wordpress-migration/?utm_source=Plone&utm_medium=Link&utm_campaign=WordPress_plugins
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Plone and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
@@ -67,9 +67,12 @@ If you get this error, try the following solutions:
 = Your server responds with 403 Forbidden =
 This error means that access to certain files or folders is limited. Find below the possible solutions:
 1. Your firewall may be causing this by blocking access to the server for our IP addresses. Please, contact your hosting provider and ask them to add the following IPs to the white-list:
-92.52.129.82
+5.58.76.130
 204.62.12.42
-Port 80.
+204.62.12.24
+88.214.254.75
+93.77.238.130
+Port 80
 This is done to enable data exchange between your websites. After the migration is complete, you’ll be able to remove our IPs from the white list.
 2. Check the access permissions. For ‘cms2cms’ folder specify the file permissions 755. For files in the ‘cms2cms’ folder specify permissions 644.
 3. Find out whether there are access restrictions for bridge file. Usually, restrictions are specified in .htaccess file. Contact your system administrator for details.
