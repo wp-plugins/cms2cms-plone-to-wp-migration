@@ -27,7 +27,9 @@ If you wish to switch from Plone CMS and consider WordPress a perfect solution f
 * *internal links*
 
 = Additional Migration Options: =
-* clear WordPress data before migration
+- clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of CMS2CMS service that make it stand out from its competitors: =
 * Ease-of-Use - CMS2CMS is a totally user-oriented tool, that doesn’t require any special skills to master it. 
